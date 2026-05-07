@@ -1,0 +1,50 @@
+{
+	"workbench.colorTheme": "Flatland Monokai",
+	"workbench.iconTheme": "vscode-icons",
+
+	"workbench.colorCustomizations": {
+		"statusBar.background": "#444444",
+		"statusBar.noFolderBackground": "#474747",
+		"statusBar.debuggingBackground": "#511f1f"
+	},
+
+	"window.zoomLevel": -1,
+	"window.commandCenter": false,
+	"workbench.layoutControl.enabled": false,
+	"workbench.activityBar.location": "hidden",
+	"workbench.statusBar.visible": true,
+	"workbench.secondarySideBar.defaultVisibility": "hidden",
+	"workbench.editor.empty.hint": "hidden",
+
+	"workbench.startupEditor": "newUntitledFile",
+	"update.showReleaseNotes": false,
+
+	"explorer.compactFolders": false,
+	"explorer.confirmDragAndDrop": false,
+
+	"editor.fontSize": 14,
+	"terminal.integrated.fontSize": 14,
+
+	"files.autoSave": "onFocusChange",
+	"editor.wordWrap": "on",
+
+	"editor.insertSpaces": true,
+	"editor.tabSize": 2,
+	"editor.detectIndentation": false,
+
+	"editor.suggestSelection": "first",
+	"editor.parameterHints.enabled": false,
+	"editor.snippetSuggestions": "none",
+	"editor.suggest.snippetsPreventQuickSuggestions": false,
+	"html.suggest.html5": false,
+
+	"terminal.integrated.cursorStyle": "line",
+
+	"security.workspace.trust.enabled": false,
+	"security.workspace.trust.untrustedFiles": "open",
+
+	"chat.viewSessions.orientation": "stacked",
+	"chat.viewSessions.enabled": false,
+	"chat.contextUsage.enabled": false,
+	"chat.disableAIFeatures": true
+}
