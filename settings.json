@@ -22,8 +22,8 @@
 	"explorer.compactFolders": false,
 	"explorer.confirmDragAndDrop": false,
 
-	"editor.fontSize": 14,
-	"terminal.integrated.fontSize": 14,
+	"editor.fontSize": 12,
+	"terminal.integrated.fontSize": 12,
 
 	"files.autoSave": "onFocusChange",
 	"editor.wordWrap": "on",
